@@ -2,7 +2,7 @@
 
 ## giligili视频网站
 
-## 项目地址[giligili](http://www.xiaosiro.cn)
+## 项目地址[giligili](http://www.mogumj.com)
 
 ## 目的
 
