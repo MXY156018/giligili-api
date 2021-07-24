@@ -3,9 +3,9 @@ package server
 import (
 	"os"
 
-	"github.com/sirodeneko/giligili-go/api"
-	"github.com/sirodeneko/giligili-go/im"
-	"github.com/sirodeneko/giligili-go/middleware"
+	"giligili-api/api"
+	"giligili-api/im"
+	"giligili-api/middleware"
 
 	"github.com/gin-gonic/gin"
 	"gopkg.in/olahol/melody.v1"

@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/sirodeneko/giligili-go/im"
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/im"
+	"giligili-api/model"
+	"giligili-api/serializer"
 )
 
 // GroupCreateService 聊天室创建的服务

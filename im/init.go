@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/sirodeneko/giligili-go/model"
+	"giligili-api/model"
 
 	"gopkg.in/olahol/melody.v1"
 )

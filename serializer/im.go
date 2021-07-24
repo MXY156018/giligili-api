@@ -1,7 +1,7 @@
 package serializer
 
 import (
-	"github.com/sirodeneko/giligili-go/model"
+	"giligili-api/model"
 )
 
 // Group 聊天室序列化器

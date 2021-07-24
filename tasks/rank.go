@@ -1,8 +1,8 @@
 package tasks
 
 import (
-	"github.com/sirodeneko/giligili-go/cache"
-	"github.com/sirodeneko/giligili-go/model"
+	"giligili-api/cache"
+	"giligili-api/model"
 )
 
 // RestartDailyRank 重启一天的排名(误)

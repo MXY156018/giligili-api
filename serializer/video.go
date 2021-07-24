@@ -1,7 +1,7 @@
 package serializer
 
 import (
-	"github.com/sirodeneko/giligili-go/model"
+	"giligili-api/model"
 )
 
 // Video 视频序列化器

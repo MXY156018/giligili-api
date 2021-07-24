@@ -3,10 +3,10 @@ package conf
 import (
 	"os"
 
-	"github.com/sirodeneko/giligili-go/cache"
-	"github.com/sirodeneko/giligili-go/im"
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/tasks"
+	"giligili-api/cache"
+	"giligili-api/im"
+	"giligili-api/model"
+	"giligili-api/tasks"
 
 	"github.com/joho/godotenv"
 )

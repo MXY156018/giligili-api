@@ -3,9 +3,9 @@ package service
 import (
 	"sort"
 
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/serializer"
 
-	"github.com/sirodeneko/giligili-go/model"
+	"giligili-api/model"
 )
 
 // GetMyGroupsService 聊天室列表服务

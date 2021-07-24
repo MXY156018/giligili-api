@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/model"
+	"giligili-api/serializer"
 )
 
 // GroupPutMsgService 聊天室发送消息的服务

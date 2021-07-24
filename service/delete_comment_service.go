@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/model"
+	"giligili-api/serializer"
 )
 
 // DeleteCommentService 删除视频评论的服务

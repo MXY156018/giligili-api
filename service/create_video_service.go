@@ -3,8 +3,8 @@ package service
 import (
 	"os"
 
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/model"
+	"giligili-api/serializer"
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )

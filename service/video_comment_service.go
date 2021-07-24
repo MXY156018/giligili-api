@@ -3,8 +3,8 @@ package service
 import (
 	"strconv"
 
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/model"
+	"giligili-api/serializer"
 )
 
 // VideoCommentService 视频评论的服务

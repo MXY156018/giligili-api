@@ -3,9 +3,9 @@ package api
 import (
 	"encoding/json"
 
-	"github.com/sirodeneko/giligili-go/im"
-	"github.com/sirodeneko/giligili-go/serializer"
-	"github.com/sirodeneko/giligili-go/service"
+	"giligili-api/im"
+	"giligili-api/serializer"
+	"giligili-api/service"
 
 	"gopkg.in/olahol/melody.v1"
 

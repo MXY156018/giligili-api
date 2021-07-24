@@ -1,4 +1,4 @@
-module github.com/sirodeneko/giligili-go
+module giligili-api
 
 go 1.16
 

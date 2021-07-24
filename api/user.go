@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/sirodeneko/giligili-go/serializer"
-	"github.com/sirodeneko/giligili-go/service"
+	"giligili-api/serializer"
+	"giligili-api/service"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

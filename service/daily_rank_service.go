@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sirodeneko/giligili-go/cache"
-	"github.com/sirodeneko/giligili-go/model"
-	"github.com/sirodeneko/giligili-go/serializer"
+	"giligili-api/cache"
+	"giligili-api/model"
+	"giligili-api/serializer"
 )
 
 // DailyRankService 每日排行的服务
